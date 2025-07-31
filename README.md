@@ -35,7 +35,7 @@ This project is ideal for learning how to structure and build backend-driven app
 
 
 
-📁 Project Structure
+```📁 Project Structure
 my_ecommerce_store/
 ├── manage.py
 ├── db.sqlite3
@@ -56,7 +56,7 @@ my_ecommerce_store/
 │ ├── login.html
 │ ├── order_history.html
 │ ├── product_list.html
-│ └── signup.html
+│ └── signup.html```
 
 
 
